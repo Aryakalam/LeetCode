@@ -22,4 +22,6 @@ class Solution:
         for y in range(len(arr)):
             arr[y] = arr[y][0]
         return arr
+        
+        
 ```
