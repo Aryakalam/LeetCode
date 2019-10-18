@@ -18,4 +18,5 @@ class Solution:
         if flag == True:
             profit += arr[-1] - arr[buy]
         return profit
+        
 ```
